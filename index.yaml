@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-30T03:57:39.267277201+08:00"
+    description: A Helm chart for Kubernetes
+    digest: c837bc596a387ecf055331791e4e431474d024bddc7241ef566e1d4bac5a1737
+    name: my-app
+    type: application
+    urls:
+    - https://github.com/Owor/my-app.git/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-30T03:57:39.265616797+08:00"
